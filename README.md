@@ -7,17 +7,24 @@ For our session today, we will explore published Digital Humanities projects in 
 * [The Hereford Map](http://historiacartarum.org/john-mandeville-and-the-hereford-map-2/what-are-you/)
 * [Showcase of Omeka Projects](http://info.omeka.net/showcase/)
 
+Also see: [Up and Running with Omeka.net](https://programminghistorian.org/en/lessons/up-and-running-with-omeka)
+
 ## Scalar
 * [Performing Archive: Curtis + "the vanishing race"](http://scalar.usc.edu/works/performingarchive/index)
 * [Mapping Jewish LA](http://www.mappingjewishla.org/)
 
+Also see: [Scalar User Guide](http://scalar.usc.edu/works/guide2/index)
+
 ## Wordpress
 * [Parthian Sources Online](http://parthiansources.com/)
+
+Also see: [Wordpress.com Features](https://en.wordpress.com/features/)
 
 ## Carto
 * [Mapping Islamophobia](http://mappingislamophobia.org/)
 * [Communal Currents](https://communalcurrents.org/)
 
+Also see: [Carto Builder overview](https://carto.com/builder/)
 
 
 
