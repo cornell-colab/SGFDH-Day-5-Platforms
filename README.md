@@ -8,7 +8,7 @@ For our session today, we will explore published Digital Humanities projects in 
 
 ## Scalar
 * [Performing Archive: Curtis + "the vanishing race"](http://scalar.usc.edu/works/performingarchive/index)
-* [Mapping Jewish Los Angeles](http://www.mappingjewishla.org/)
+* [Mapping Jewish LA](http://www.mappingjewishla.org/)
 
 ## Wordpress
 * [Parthian Sources Online](http://parthiansources.com/)
