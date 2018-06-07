@@ -16,7 +16,9 @@ For our session today, we will explore published Digital Humanities projects in 
 * [Mapping Islamophobia](http://mappingislamophobia.org/)
 * [Communal Currents](https://communalcurrents.org/)
 
-As you explore the projects, please keep the following guiding questions in mind:
+
+**As you explore the projects, please keep the following guiding questions in mind:**
+
 
 * What kind of projects would be a good fit for the features of this platform?
 * Can you identify the type(s) of data/metadata being used? 
