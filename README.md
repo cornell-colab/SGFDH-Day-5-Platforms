@@ -20,7 +20,7 @@ As you explore the projects, please keep the following guiding questions in mind
 
 * What kind of projects would be a good fit for the features of this platform?
 * Can you identify the type(s) of data/metadata being used? 
-* In how many ways is the data made available to others? For instance, how might a researcher download the data to use in a new project?
+* In how many ways is the data made available to others? (For instance, how might a researcher download the data to use in a new project?)
 * If you imagine this project in the coming years (decades?), what might be problems that come up over time? Are there areas of concern for sustainability?
 * Where would your project be hosted (and by whom?) if you used this platform? Who has ownership, control, rights?
 * How "safe" is your data here? Does the platform allow you to protect your data in some fashion?
