@@ -17,6 +17,8 @@ For our session today, we will explore published Digital Humanities projects in 
 * [Communal Currents](https://communalcurrents.org/)
 
 
+
+
 **As you explore the projects, please keep the following guiding questions in mind:**
 
 
