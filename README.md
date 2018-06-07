@@ -11,3 +11,4 @@ For our session today, we will explore published Digital Humanities projects in 
 
 ## Carto
 * [Mapping Islamophobia](http://mappingislamophobia.org/)
+* [Communal Currents](https://communalcurrents.org/)
