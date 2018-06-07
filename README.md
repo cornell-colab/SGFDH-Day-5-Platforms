@@ -1,2 +1,2 @@
-# SGFDH-Day-5-Platforms
+# SGFDH Day 5 -- Platforms and Infrastructure
 Platforms, Publishing, Hosting
