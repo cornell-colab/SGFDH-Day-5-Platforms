@@ -5,6 +5,7 @@ For our session today, we will explore published Digital Humanities projects in 
 
 ## Omeka/Neatline
 * [The Hereford Map](http://historiacartarum.org/john-mandeville-and-the-hereford-map-2/what-are-you/)
+* [Showcase of Omeka Projects](http://info.omeka.net/showcase/)
 
 ## Scalar
 * [Performing Archive: Curtis + "the vanishing race"](http://scalar.usc.edu/works/performingarchive/index)
