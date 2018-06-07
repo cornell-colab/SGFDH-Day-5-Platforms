@@ -7,6 +7,7 @@ For our session today, we will explore published Digital Humanities projects in 
 * [The Hereford Map](http://historiacartarum.org/john-mandeville-and-the-hereford-map-2/what-are-you/)
 
 ## Scalar
+* [Performing Archive: Curtis + "the vanishing race"](http://scalar.usc.edu/works/performingarchive/index)
 
 ## Wordpress
 * [Parthian Sources Online](http://parthiansources.com/)
