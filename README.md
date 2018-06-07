@@ -9,7 +9,7 @@ For our session today, we will explore published Digital Humanities projects in 
 ## Scalar
 
 ## Wordpress
-* [Parthian Sources Online(http://parthiansources.com/)
+* [Parthian Sources Online](http://parthiansources.com/)
 
 ## Carto
 * [Mapping Islamophobia](http://mappingislamophobia.org/)
