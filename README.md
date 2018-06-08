@@ -4,10 +4,21 @@ Platforms, Publishing, Hosting
 For our session today, we will explore published Digital Humanities projects in pairs and compare the features of various popular platforms. Please select a project from the list below:
 
 ## Omeka/Neatline
+Omeka really shines in its ability to manage collections of archival objects (including photos, audio, and video), and to create exhibitions from them. 
+
 * [The Hereford Map](http://historiacartarum.org/john-mandeville-and-the-hereford-map-2/what-are-you/)
 * [Showcase of Omeka Projects](http://info.omeka.net/showcase/)
 
-Also see: [Up and Running with Omeka.net](https://programminghistorian.org/en/lessons/up-and-running-with-omeka)
+[Neatline](neatline.org) is a sophisticated plugin for Omeka that allows mapping. Check out some of the example projects made with Neatline, and compare with Carto. One difference between the two is that Omeka allows much more freeform annotation, and various ways of embedding collections of objects within the map. Neatline also offers timeline tools.
+
+Omeka.net is the hosted version of Omeka. Anyone may create a small Omeka.net project for free (with limited plugins).  
+Cornell has an institutional subscription to Omeka.net, which allows for more storage space and plugins. You're welcome to create a site on Cornell's Omeka.net instance. Email Eliza with the domain name you want to use. (_______.omeka.net)
+
+However, Omeka.net does not support Neatline, so if you want to use it, you'll have to host your own installation Omeka (Omeka.org), using server space at Reclaim Hosting or elsewhere. 
+
+For Omeka usage instructions, see: *The Programming Historian*'s [Up and Running with Omeka.net](https://programminghistorian.org/en/lessons/up-and-running-with-omeka)
+
+Note: Omeka can be a great pedagogical tool, in part because the interface is so simple to use. If you'd like to see some fantastics FWS projects built with Omeka, let Eliza know. Unfortunately they're not public because they use copyrighted material, but I'd be glad to show them to you.
 
 ## Scalar
 * [Performing Archive: Curtis + "the vanishing race"](http://scalar.usc.edu/works/performingarchive/index)
