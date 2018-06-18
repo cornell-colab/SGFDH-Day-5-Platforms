@@ -9,7 +9,7 @@ Omeka really shines in its ability to manage collections of archival objects (in
 * [The Hereford Map](http://historiacartarum.org/john-mandeville-and-the-hereford-map-2/what-are-you/)
 * [Showcase of Omeka Projects](http://info.omeka.net/showcase/)
 
-[Neatline](neatline.org) is a sophisticated plugin for Omeka that allows mapping. Check out some of the example projects made with Neatline, and compare with Carto. One difference between the two is that Omeka allows much more freeform annotation, and various ways of embedding collections of objects within the map. Neatline also offers timeline tools.
+[Neatline](http://neatline.org) is a sophisticated plugin for Omeka that allows mapping. Check out some of the example projects made with Neatline, and compare with Carto. One difference between the two is that Omeka allows much more freeform annotation, and various ways of embedding collections of objects within the map. Neatline also offers timeline tools.
 
 Omeka.net is the hosted version of Omeka. Anyone may create a small Omeka.net project for free (with limited plugins).  
 Cornell has an institutional subscription to Omeka.net, which allows for more storage space and plugins. You're welcome to create a site on Cornell's Omeka.net instance. Email Eliza with the domain name you want to use. (_______.omeka.net)
